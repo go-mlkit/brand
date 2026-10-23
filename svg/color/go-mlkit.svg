@@ -1,0 +1,19 @@
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="go-mlkit">
+  <defs><linearGradient id="mlgrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F0D060"/><stop offset="1" stop-color="#7A5C00"/></linearGradient></defs>
+  <rect width="256" height="256" rx="56" fill="url(#mlgrad)"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="13" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M119.5 75.8L82.5 118.2"/>
+    <path d="M136.5 75.8L173.5 118.2"/>
+    <path d="M68.8 139.9L52.2 178.1"/>
+    <path d="M79.2 139.9L95.8 178.1"/>
+    <path d="M176.8 139.9L160.2 178.1"/>
+    <path d="M187.2 139.9L203.8 178.1"/>
+    <circle cx="128" cy="66" r="13"/>
+    <circle cx="74" cy="128" r="13"/>
+    <circle cx="182" cy="128" r="13"/>
+    <circle cx="47" cy="190" r="13"/>
+    <circle cx="101" cy="190" r="13"/>
+    <circle cx="155" cy="190" r="13"/>
+    <circle cx="209" cy="190" r="13"/>
+  </g>
+</svg>
